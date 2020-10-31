@@ -1,5 +1,5 @@
 <h2>🖖🏾 Olá, eu sou Lucas Lima</h2>
-[![Instagram Badge](https://img.shields.io/badge/-@lima.dev-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/lima.dev/)](https://instagram.com/lima.dev)
+[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/lima.dev/)](https://instagram.com/lima.dev)
 
 [![Twitter Badge](https://img.shields.io/badge/-@lucaslimadev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucaslimadev)](https://twitter.com/lucaslimadev)
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
