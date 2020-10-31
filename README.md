@@ -1,8 +1,5 @@
 <h2>🖖🏾 Olá, eu sou Lucas Lima</h2>
 
-[![Instagram Badge](https://img.shields.io/badge/-@lima.dev-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/lima.dev/)](https://instagram.com/lima.dev)
-
-[![Twitter Badge](https://img.shields.io/badge/-@lucaslimadev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucaslimadev)](https://twitter.com/lucaslimadev)
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <h3> 👨🏾 Sobre Mim </h3>
 
@@ -50,11 +47,9 @@
 - 📚 &nbsp;  | PHP | Python | Bancos de Dados
 
 <hr>
-
-[![Instagram Badge](https://img.shields.io/badge/-@lima.dev-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/lima.dev/)](https://instagram.com/lima.dev)
-
-[![Twitter Badge](https://img.shields.io/badge/-@lucaslimadev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucaslimadev)](https://twitter.com/lucaslimadev)
-
+<p align="left">
+[![Instagram Badge](https://img.shields.io/badge/-@lima.dev-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/lima.dev/)](https://instagram.com/lima.dev)[![Twitter Badge](https://img.shields.io/badge/-@lucaslimadev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucaslimadev)](https://twitter.com/lucaslimadev)
+</p><br>
 <p align="center">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
