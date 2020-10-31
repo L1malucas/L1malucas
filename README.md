@@ -1,5 +1,12 @@
 <h2>🖖🏾 Olá, eu sou Lucas Lima</h2>
 
+<a href="https://instagram.com/lima.dev">
+  <img align="left" alt="lima.dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/lucaslimadev">
+  <img align="left" alt="lucaslimadev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <h3> 👨🏾 Sobre Mim </h3>
 
@@ -30,7 +37,6 @@
 
 - 🖥 &nbsp; Illustrator| Gimp | InDesign
 
-
 <p align="center">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
@@ -40,19 +46,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-?style=flat&logo=Linkedin&logoColor=white&link=http)](https://www.linkedin.com/)
 -->
 
-
-
 <h3>🛠 Estudando/Estudarei</h3>
 
 - 📚 &nbsp;  | PHP | Python | Bancos de Dados
 
-<hr>
-<p align="left">
-  
-[![Instagram Badge](https://img.shields.io/badge/-@lima.dev-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/lima.dev/)](https://instagram.com/lima.dev)
-  
-[![Twitter Badge](https://img.shields.io/badge/-@lucaslimadev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucaslimadev)](https://twitter.com/lucaslimadev)
-</p><br>
+<hr>  
 
 <p align="center">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
