@@ -3,8 +3,6 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <h3> 👨🏾 Sobre Mim </h3>
 
-[![Instagram Badge](https://img.shields.io/badge/-@lima.dev-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/lima.dev/)](https://instagram.com/lima.dev)
-
 
 
 - 🎓 &nbsp; Graduando em Ciência e Tecnologia pela UFBA.
@@ -38,6 +36,8 @@
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
 </p><br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-?style=flat&logo=Linkedin&logoColor=white&link=http)](https://www.linkedin.com/)
 -->
 
 
@@ -47,6 +47,10 @@
 - 📚 &nbsp;  | PHP | Python | Bancos de Dados
 
 <hr>
+
+[![Instagram Badge](https://img.shields.io/badge/-@lima.dev-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/lima.dev/)](https://instagram.com/lima.dev)
+
+[![Twitter Badge](https://img.shields.io/badge/-@lucaslimadev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucaslimadev)](https://twitter.com/lucaslimadev)
 
 <p align="center">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
