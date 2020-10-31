@@ -1,8 +1,9 @@
-<h2>🖖🏾 Eu me chamo Lucas Lima</h2>
+<h2>🖖🏾 Olá, eu sou Lucas Lima</h2>
 
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <h3> 👨🏾 Sobre Mim </h3>
 
+[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/lima.dev/)](https://instagram.com/lima.dev)
 
 
 
