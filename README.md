@@ -17,7 +17,7 @@
 
 - 🌱 &nbsp; Desenvolvedor Back-end, em desenvolvimento.
 
-- ✍🏽 &nbsp; Projetos, aplicações, testes e experiências utilizando C++ com o framework Qt (por enquanto).
+- ✍🏽 &nbsp; Projetos, aplicações, testes e experiências utilizando C++ com o toolkit Qt (por enquanto).
 
 - 🖥 Usuário e colaborador KDE Neon (tradução).
 
