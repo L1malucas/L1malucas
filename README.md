@@ -19,7 +19,7 @@
 
 - ✍🏽 &nbsp; Projetos, aplicações, testes e experiências utilizando C++ com o toolkit Qt (por enquanto).
 
-- 🖥 Usuário e colaborador KDE Neon (tradução).
+- 🖥 Usuário KDE.
 
 
 <h3>🛠 Tech Stack</h3>
