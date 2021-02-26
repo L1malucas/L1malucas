@@ -1,8 +1,8 @@
 <h2>🖖🏾 Olá, eu sou Lucas Lima</h2>
 
-<a href="https://instagram.com/lima.dev">
+<!--<a href="https://instagram.com/lima.dev">
   <img align="left" alt="lima.dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> -->
 <a href="https://twitter.com/lucaslimadev">
   <img align="left" alt="lucaslimadev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -19,7 +19,7 @@
 
 - ✍🏽 &nbsp; Projetos, aplicações, testes e experiências utilizando C++ com o toolkit Qt (por enquanto).
 
-- 🖥   Usuário KDE.
+- 🖥 &nbsp;  Usuário KDE.
 
 
 <h3>🛠 Tech Stack</h3>
