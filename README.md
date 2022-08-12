@@ -46,19 +46,3 @@
 
 <div align="left">
 </div>
-
-###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/L/L/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/L/count.svg?"  />
-</div>
-
-###
-
-Profile Readme Generator
