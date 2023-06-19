@@ -1,32 +1,38 @@
-<h2 align="left">🖖🏾 Olá, eu sou Lucas Lima</h2>
+<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="">Lucas Lima.</a></h1>
+
+<h3 align="left">Software developer Flutter and .NET.</h3>
+
+<a href="https://linkedin.com/in/limalucasdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="limalucasdev" height="30" width="40" /></a>
+
+<br>
+
+  <details>
+    <summary>
+    <strong>MORE ABOUT ME</strong>
+    </summary>
+
+```javascript
+const L1malucas = {
+  availableForHire: true,
+  education: "Graduate at UFBA",
+  otherAlias: "Full Stack Developer",
+  codesIn: ["Dart", "HTML", "CSS", "C#", "Javascript"],
+  toolsUsing: ["ASP.NET", "Blazor", "Flutter", "Azure Devops", "MySql", "Linux"],
+  currentlylearning: ["Angular", "Firebase", "Kotlin", "Jetpack Compose", "Figma"],
+  experiences: [
+      {
+      company : "Instituto Recôncavo de Tecnologia",
+      post : "Software Developer"
+    }
+  ],
+}
+```
 
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/limalucasdev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="lucaslima.94@hotmail.com.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  
-<br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l1malucas" alt="l1malucas" /></a> </p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://img.shields.io/badge/.NET-%23FFFFFF.svg?style=for-the-badge&logo=.net&logoColor=5C2D91" alt=".NET badge" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter badge" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
-</div>
 
-<br><br>
-
-###
-
-<p align="left"><h3> 👨🏾 Sobre Mim </h3><br>- 🎓 &nbsp; Graduando em Ciência e Tecnologia pela UFBA.<br><br>- 🌱 &nbsp; Desenvolvedor Full Stack Flutter e .NET.<br><br>- ✍🏽 &nbsp; Projetos, aplicações, testes e experiências focados em desenvolvimento back e front.<br><br>- 🖥 &nbsp;  Usuário Linux<br><br><br><h3>🛠 Interesses</h3><br>- 📚 &nbsp;   Angular | Kotlin | Bancos de Dados <br><br><hr></p>
-
-###
-
-
-<div align="left">
-</div>
+  </details>
