@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="">Lucas Lima.</a></h1>
+<img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><h1 align="left">Hello There, I'm <a href="">Lucas Lima.</a></h1>
 
 <h3 align="left">Software developer Flutter and .NET.</h3>
 
