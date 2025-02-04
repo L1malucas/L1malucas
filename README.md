@@ -1,38 +1,26 @@
-<img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><h1 align="left">Hello There, I'm <a href="">Lucas Lima.</a></h1>
+ ### Hello, I'm Lucas Lima! 👋 
+**Software Engineer** | Typescript ✨ | Python 🐍 | Docker 🚧 | Azure Cloud ☁️ | Flutter 🌍
+---
 
-<h3 align="left">Software developer Flutter and .NET.</h3>
+#### 🔧 **Hard Skills:**
+![Typescript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure Cloud](https://img.shields.io/badge/Azure_Cloud-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<a href="https://linkedin.com/in/limalucasdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="limalucasdev" height="30" width="40" /></a>
-
-<br>
-
-  <details>
-    <summary>
-    <strong>MORE ABOUT ME</strong>
-    </summary>
-
-```javascript
-const L1malucas = {
-  availableForHire: true,
-  education: "Graduate at UFBA",
-  otherAlias: "Full Stack Developer",
-  codesIn: ["Dart", "HTML", "CSS", "C#", "Javascript"],
-  toolsUsing: ["ASP.NET", "Blazor", "Flutter", "Azure Devops", "MySql", "Linux"],
-  currentlylearning: ["Angular", "Firebase", "Kotlin", "Jetpack Compose", "Figma"],
-  experiences: [
-      {
-      company : "Instituto Recôncavo de Tecnologia",
-      post : "Software Developer"
-    }
-  ],
-}
-```
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l1malucas" alt="l1malucas" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-  </details>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1malucas&layout=compact&theme=radical" />
+</div>
